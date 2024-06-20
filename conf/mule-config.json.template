@@ -1,0 +1,16 @@
+{
+  "muleRuntimeConfig" : {
+    "maven" : {
+#if ( $user_settings )
+      "userSettingsLocation" : "${user_settings}",
+#end
+#if ( $global_settings )
+      "globalSettingsLocation" : "${global_settings}",
+#end
+#if ( $user_repository )
+      "repositoryLocation": "${user_repository}",
+#end
+      "ignoreArtifactDescriptorRepositories": "${ignore_artifact_descriptor_repositories}"
+    }
+  }
+}

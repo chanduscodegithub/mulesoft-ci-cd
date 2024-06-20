@@ -1,0 +1,9 @@
+{
+  "muleRuntimeConfig" : {
+    "maven" : {
+      "userSettingsLocation" : "C:\\Desktop\\AnypointStudio\\configuration\\org.eclipse.osgi\\412\\data\\settings.xml",
+      "repositoryLocation": "C:\\Users\\kottanuru.chandrika_\\.m2\\repository",
+      "ignoreArtifactDescriptorRepositories": "false"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.3.0
+Build-Jdk-Spec: 17
+Specification-Title: Mule Scheduler Service Implementation
+Specification-Version: 1.6
+Specification-Vendor: MuleSoft, Inc.
+Implementation-Title: Mule Scheduler Service Implementation
+Implementation-Version: 1.6.1
+Implementation-Vendor: MuleSoft, Inc.
+Automatic-Module-Name: org.mule.service.scheduler
+Build-Date: 
+Build-Revision: 7988a9e7
+Description: Mule Runtime and Integration Platform
+Dev-List-Email: mule-esb@mulesoft.com
+Git-branch: 1.6.1
+Git-commit-id: 7988a9e7506634d4b60f355579894a76ab4b7a09
+Git-commit-id-describe: 1.6.1-rc1-2-g7988a9e
+Git-commit-time: 2024-03-01T16:35:02+0000
+Git-remote-origin-url: https://github.com/mulesoft/mule-scheduler-servic
+ e.git
+Git-tags: 
+License: CPAL v1.0 http://www.mulesoft.com/CPAL/
+More-Info: For more information go to https://developer.mulesoft.com/
+Product-Url: https://developer.mulesoft.com/
+Recommended-Jdks: [1.8.0_181,9),[11,12),[17,18)
+Support: Get commercial support: http://www.mulesoft.com/support
+Supported-Jdks: [1.8.0,18)
+Vendor-Url: http://www.mulesoft.com
+

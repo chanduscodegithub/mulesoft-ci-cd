@@ -1,0 +1,6 @@
+INFO  2024-06-13 17:06:27,741 [ArtifactDeployer.start.01] [processor: ; event: ] org.mule.runtime.core.internal.logging.LogUtil: 
+**********************************************************************
+* Domain: default                                                    *
+* OS encoding: UTF-8, Mule encoding: UTF-8                           *
+*                                                                    *
+**********************************************************************

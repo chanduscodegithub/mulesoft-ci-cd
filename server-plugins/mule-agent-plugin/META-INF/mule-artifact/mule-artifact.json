@@ -1,0 +1,14 @@
+{
+  "name": "mule-agent-plugin",
+  "pluginClassName": "com.mulesoft.agent.AgentPlugin",
+  "minMuleVersion": "4.1.0-SNAPSHOT",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {}
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}

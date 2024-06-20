@@ -1,0 +1,14 @@
+{
+  "name": "mule-debugger-server-plugin",
+  "pluginClassName": "com.mulesoft.mule.debugger.server.impl.DebuggerPlugin",
+  "minMuleVersion": "4.0.0-SNAPSHOT",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {}
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}

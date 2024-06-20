@@ -1,0 +1,15 @@
+{
+    "name": "munit-recording-plugin",
+    "pluginClassName": "com.mulesoft.mule.munit.recording.server.RecordingPlugin",
+    "minMuleVersion": "4.2.0",
+    "requiredProduct": "MULE_EE",
+    "classLoaderModelLoaderDescriptor": {
+        "id": "mule",
+        "attributes": {}
+    },
+
+    "bundleDescriptorLoader": {
+        "id": "mule",
+        "attributes": {}
+    }
+}
